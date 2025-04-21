@@ -1,0 +1,3 @@
+google-genai==1.10.0
+mcp==1.6.0
+mcp-flight-search==0.2.1
